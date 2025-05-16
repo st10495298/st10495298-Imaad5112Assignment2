@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assignment2</string>
+    <string name="your_score_5">Your score: %1$s / 5</string>
+    <string name="your_score" />
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="rewiewButton" type="id" />
+    <item name="textFeedback" type="id" />
+    <item name="scoreText" type="id" />
+    <item name="exitButton" type="id" />
+    <item name="btnFalse" type="id" />
+    <item name="btnTrue" type="id" />
+    <item name="tvQuestion" type="id" />
+    <item name="tvFeedback" type="id" />
+    <item name="btnNext" type="id" />
+    <item name="btnExit" type="id" />
+    <item name="btnReview" type="id" />
+    <item name="tvScore" type="id" />
+    <item name="QuestionTextView" type="id" />
+    <item name="Truebutton" type="id" />
+    <item name="Falsebutton" type="id" />
+    <item name="Nextbutton" type="id" />
+    <item name="Feedbacktextview" type="id" />
+    <item name="Reviewbutton" type="id" />
+    <item name="retrybtn" type="id" />
+    <item name="Exitbutton" type="id" />
+    <item name="scoretextview" type="id" />
+    <item name="reviewtextview" type="id" />
+    <item name="feedbackText" type="id" />
+    <item name="reviewButton" type="id" />
+
+</resources>
